@@ -4,7 +4,7 @@
 <p>
 Namaskar <br>
  In this app we are going to deploy things manually
-<a href="about.jsp">About page </a>
+<a href="about.jsp">About page op </a>
 </body>
 </html>
   
